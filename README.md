@@ -5,9 +5,9 @@
   </span>
 </h1>
 
-<p align="center">
+[<p align="center">
   Apaixonado por tecnologia, café ☕ e resolver problemas!
-</p>
+</p>](https://readme-typing-svg.demolab.com/demo/?font=Pixelify+Sans&size=23&color=7500A8&lines=+Apaixonado+por+tecnologia%2C+caf%C3%A9+%E2%98%95+e+resolver+problemas!)
 
 
 
