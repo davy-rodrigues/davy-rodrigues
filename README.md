@@ -1,7 +1,8 @@
 
- <ph1 align="center">
-  <span style="display:inline-block; color: #DA70D6;">Olá, eu sou o Deivite Rodrigues</span>
-</ph1>
+ <p align="center">
+  <span style="display:inline-block; color: #DA70D6;"> <h1 Olá, eu sou o Deivite Rodrigues </h1>
+  </span>
+</p>
 <p align="center">
   Apaixonado por tecnologia, café ☕ e resolver problemas!
 </p>
