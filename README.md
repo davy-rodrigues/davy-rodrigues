@@ -1,4 +1,4 @@
-<img width ="100%" src=" https://capsule-render.vercel.app/api?type=waving&height=110&color=7500a8&fontAlignY=75&fontAlign=42&animation=scaleIn&descAlign=71" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7500a8&fontAlignY=75&fontAlign=42&animation=scaleIn&descAlign=71"/>
  
  <h1 align="center">
   <span style="display:inline-block; color: #DA70D6;"> Deivite Rodrigues
