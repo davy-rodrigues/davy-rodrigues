@@ -3,7 +3,10 @@
   <span style="display:inline-block; color: #DA70D6;">Olá, eu sou o Deivite Rodrigues</span>
 </h1>
 
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davy-rodrigues&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-rodrigues&layout=compact&theme=radical"/>
+</p>
 
 
 <p align="center">
