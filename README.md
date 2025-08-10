@@ -22,6 +22,10 @@
 </pictur
 ###
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davy-rodrigues&theme=aura)
+
+
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davy-rodrigues&show_icons=true&theme=radical"/>
