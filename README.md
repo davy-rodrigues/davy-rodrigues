@@ -38,6 +38,10 @@
 ---
 
 <p align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200">
+</p>
+
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVqZTFndGZ3ZzQ4NzN0Zm8waGhpbnJodHdwYzUzczVycDh1NHcxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fu3GohBvHTaco/giphy.gif" />
 </p>
 
