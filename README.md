@@ -2,7 +2,9 @@
 <h1 align="center">
   <span style="display:inline-block; color: #DA70D6;">Olá, eu sou o Deivite Rodrigues</span>
 </h1>
-
+<p align="center">
+  Apaixonado por tecnologia, café ☕ e resolver problemas!
+</p>
 
 
 
