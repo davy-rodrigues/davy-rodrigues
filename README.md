@@ -21,10 +21,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </pictur
 ###
-
+<br>
+<br >
+<div alin= "center" >
+ 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davy-rodrigues&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davy-rodrigues&theme=aura) 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davy-rodrigues&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davy-rodrigues&theme=aura&utcOffset=8) |
 |  : - :  |  : - : |  : - :  |
+
+</div>
  
 
 
