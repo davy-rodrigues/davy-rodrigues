@@ -23,9 +23,9 @@
 ###
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davy-rodrigues&theme=aura)
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davy-rodrigues&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davy-rodrigues&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davy-rodrigues&theme=aura&utcOffset=8)
 
 
 
