@@ -23,16 +23,8 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davy-rodrigues&theme=aura)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davy-rodrigues&theme=aura) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davy-rodrigues&theme=aura)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davy-rodrigues&theme=aura&utcOffset=8) 
 
-
 </div>
- 
-
-
- 
-
-
-
-  
+   
 ---
 
 <div style="display: flex; align-items: center;">
@@ -57,6 +49,7 @@
 
 
 <div> 
+ 
   <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href=""><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href=""><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
