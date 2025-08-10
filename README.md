@@ -1,10 +1,11 @@
 
- <p align="center">
-  <span style="display:inline-block; color: #DA70D6;"> <h1  </h1>
+ <h1 align="center">
+  <span style="display:inline-block; color: #DA70D6;"> Sou Deivite Rodrigues
   </span>
-</p>
+</h1>
+
 <p align="center">
- Ola! meu nome é Deivite Rodrigues
+  Apaixonado por tecnologia, café ☕ e resolver problemas!
 </p>
 
 
