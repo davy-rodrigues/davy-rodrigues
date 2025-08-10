@@ -1,6 +1,6 @@
 
  <h1 align="center">
-  <span style="display:inline-block; color: #DA70D6;"> Sou Deivite Rodrigues
+  <span style="display:inline-block; color: #DA70D6;"> Deivite Rodrigues
   </span>
 </h1>
 
