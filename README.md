@@ -5,11 +5,7 @@
   </span>
 </h1>
 
-[<p align="center">
-  Apaixonado por tecnologia, café ☕ e resolver problemas!
-</p>](https://readme-typing-svg.demolab.com/demo/?font=Pixelify+Sans&size=23&color=7500A8&lines=+Apaixonado+por+tecnologia%2C+caf%C3%A9+%E2%98%95+e+resolver+problemas!)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=23&pause=1000&color=7500A8&width=435&lines=+Apaixonado+por+tecnologia%2C+caf%C3%A9+%E2%98%95+e+resolver+problemas!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davy-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="davy-rodrigues" />
